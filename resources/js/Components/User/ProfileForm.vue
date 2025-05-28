@@ -57,6 +57,9 @@
         else if(form.mobile.length === 0){
             toaster.error('Mobile Number is required');
         }
+        else if(form.email.length === 0){
+            toaster.error('Email is required');
+        }
         else{
 
             form.post('/user-update',{
