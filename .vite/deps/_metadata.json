@@ -1,0 +1,49 @@
+{
+  "hash": "ab89c1b7",
+  "configHash": "5e1610e7",
+  "lockfileHash": "f2fa792e",
+  "browserHash": "efbe3cfb",
+  "optimized": {
+    "@inertiajs/vue3": {
+      "src": "../../node_modules/@inertiajs/vue3/dist/index.esm.js",
+      "file": "@inertiajs_vue3.js",
+      "fileHash": "bcf3f7b0",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "7d379167",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "src": "../../node_modules/nprogress/nprogress.js",
+      "file": "nprogress.js",
+      "fileHash": "43a9bf3d",
+      "needsInterop": true
+    },
+    "vue3-easy-data-table": {
+      "src": "../../node_modules/vue3-easy-data-table/dist/vue3-easy-data-table.es.js",
+      "file": "vue3-easy-data-table.js",
+      "fileHash": "f236b48e",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "e4db245b",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-IJV5NOMV": {
+      "file": "chunk-IJV5NOMV.js"
+    },
+    "chunk-FH2SCWAL": {
+      "file": "chunk-FH2SCWAL.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
